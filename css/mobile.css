@@ -1,0 +1,24 @@
+@media (max-width: 1111px){
+    .reviews_div{
+        display: inherit;
+        margin: 0px;
+    }
+    .viewport_cats{
+        height:234px;
+
+    }
+    .cats_dv{
+        display: inherit;
+    }
+    .products{
+        display: inherit;
+        background-image: none;
+    }
+    .product{
+        margin:0px;
+
+    }
+    .cat_text_box{
+        text-align: center;
+    }
+}
